@@ -10,16 +10,12 @@ O Gabinete do Auditor Substituto Luiz Carlos Pereira está focado no desenvolvim
 
 Aqui estão os repositórios que fazem parte da nossa organização:
 
-1. [Projeto X](link_para_o_repositorio_x) - Breve descrição do projeto X.
-2. [Projeto Y](link_para_o_repositorio_y) - Breve descrição do projeto Y.
-3. [Projeto Z](link_para_o_repositorio_z) - Breve descrição do projeto Z.
+1. [Transcrição](https://github.com/gabinete-lcacp/1-transcricao) - Este projeto visa transcrever sessões e audiências para facilitar o acesso e análise dos procedimentos.
+2. [Resumo](https://github.com/gabinete-lcacp/2-sumario) - Gera automaticamente resumos de documentos e sessões, melhorando a digestibilidade de textos extensos.
+3. [Pesquisa Inteligente](https://github.com/gabinete-lcacp/3-pesquisa-inteligente) - Utiliza algoritmos avançados de busca para recuperar rapidamente documentos e informações relevantes.
+4. [Acórdãos](https://github.com/gabinete-lcacp/4-acordaos) - Auxilia na formulação de acórdãos analisando decisões passadas e precedentes legais.
+5. [Agente de Voz](https://github.com/gabinete-lcacp/5-agente-voz) - Um agente alimentado por IA que usa reconhecimento de voz para auxiliar em tarefas interativas.
+6. [Voz Flask](https://github.com/gabinete-lcacp/6-voz-flask) - Uma aplicação Flask que integra serviços baseados em voz para operações internas.
+7. [Resumo de Sessão](https://github.com/gabinete-lcacp/7-sessao-sumario) - Resume em tempo real os resultados e decisões das sessões do tribunal.
+8. [Voto e Relatório](https://github.com/gabinete-lcacp/8-voto-e-relatorio) - Facilita o registro de votos e a geração de relatórios correspondentes de forma automatizada.
 
-## Como Contribuir
-
-Se você está interessado em contribuir para um dos nossos projetos, sinta-se à vontade para explorar os repositórios e enviar suas contribuições! Aqui estão algumas maneiras de começar:
-
-1. Faça um fork do repositório do projeto desejado.
-2. Faça as alterações necessárias no seu fork.
-3. Envie um pull request com uma explicação clara das suas alterações.
-
-Obrigado por seu interesse em nosso trabalho!
